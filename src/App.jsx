@@ -60,8 +60,14 @@ const App = () => {
           playsInline
           className=" h-full w-full fixed inset-0 object-cover z-[-5]"
         >
-          <source src="../src/assets/bgvideo.webm" type="video/webm" />
-          <source src="../src/assets/bgvideo.mp4" type="video/mp4" />
+          <source
+            src="https://maverick-games.com/_nuxt/videos/hero.1c23bda.webm"
+            type="video/webm"
+          />
+          <source
+            src="https://maverick-games.com/_nuxt/videos/hero.7c5d9b9.mp4"
+            type="video/mp4"
+          />
         </video>
 
         <SideNav />
