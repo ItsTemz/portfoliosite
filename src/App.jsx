@@ -60,8 +60,8 @@ const App = () => {
           playsInline
           className=" h-full w-full fixed inset-0 object-cover z-[-5]"
         >
-          <source src="../src/assets/tech/bgvideo.webm" type="video/webm" />
-          <source src="../src/assets/tech/bgvideo.mp4" type="video/mp4" />
+          <source src="../src/assets/bgvideo.webm" type="video/webm" />
+          <source src="../src/assets/bgvideo.mp4" type="video/mp4" />
         </video>
 
         <SideNav />
